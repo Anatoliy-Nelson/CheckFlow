@@ -28,7 +28,7 @@ export const Login = () => {
                         Enter your email and password. If you don't have an account yet, register{' '}
                         <a
                             href={'https://social-network.samuraijs.com/'}
-                            style={{ color: '#e91e63' }}
+                            style={{ color: '#1ee9b6ff' }}
                             target={'_blank'}
                         >
                             here
